@@ -1,0 +1,19 @@
+{
+  "name": "@iterable/ckeditor-preview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iterable/ckeditor-preview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iterable/ckeditor-preview/issues"
+  },
+  "homepage": "https://github.com/Iterable/ckeditor-preview#readme"
+}
